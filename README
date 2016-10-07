@@ -1,0 +1,9 @@
+Installasjonsveiledning:
+
+1. åpne programmet i Eclipse eller IntellijJ
+2. Start RMIServer
+3. Start Maze
+4. Programmet skal nå være oppe å kjøre, og du vil se klienter gå rundt i mazen,
+    kan også starte opp flere maze, som da vil vise samme bilde.
+
+Notice: Progammet er skrevet ved bruk av IntelliJ, men skal eksporert til Eclipse.
